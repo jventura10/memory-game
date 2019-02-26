@@ -1,0 +1,30 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  border-color: darkslategray;
+  margin: 0.5rem;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  height: 250px;
+  width: 300px;
+}
+
+img {
+  min-height: 100%;
+  min-width: 100%;
+  object-fit: contain;
+}
+
+@media only screen and (max-width: 768px) {
+  .card{
+    height: 150px;
+    width: 100px;
+  }
+}
+
+@media only screen and (min-width: 768px) and  (max-width: 1024px) {
+  .card{
+    height: 200px;
+    width: 125px;
+  }
+}

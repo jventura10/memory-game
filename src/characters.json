@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Obito Uchiha",
+    "image": "Obito.png"
+  },
+  {
+    "id": 2,
+    "name": "Hashirama Senju",
+    "image": "Hashirama.png"
+  },
+  {
+    "id": 3,
+    "name": "Minato Namikaze",
+    "image": "Minato.png"
+  },
+  {
+    "id": 4,
+    "name": "Shisui Uchiha",
+    "image": "Shisui.png"
+  },
+  {
+    "id": 5,
+    "name": "Kisame Hoshigaki",
+    "image": "Kisame.png"
+  },
+  {
+    "id": 6,
+    "name": "Naruto Uzumaki",
+    "image": "Naruto.png"
+  },
+  {
+    "id": 7,
+    "name": "Itachi Uchiha",
+    "image": "Itachi.png"
+  },
+  {
+    "id": 8,
+    "name": "Tobirama Senju",
+    "image": "Tobirama.png"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "Sasuke Uchiha",
+    "image": "Sasuke.png"
+  }
+  ,
+  {
+    "id": 10,
+    "name": "Orochimaru",
+    "image": "Orochimaru.png"
+  },
+  {
+    "id": 11,
+    "name": "Haku Yuki",
+    "image": "Haku.png"
+  },
+  {
+    "id": 12,
+    "name": "Hiruzen Sarutobi",
+    "image": "Hiruzen.png"
+  },
+  {
+    "id": 13,
+    "name": "Kakashi Hatake",
+    "image": "Kakashi.png"
+  },
+  {
+    "id": 14,
+    "name": "Zabuza Momochi",
+    "image": "Zabuza.png"
+  },
+  {
+    "id": 15,
+    "name": "Madara Uchiha",
+    "image": "Madara.png"
+  }
+]
