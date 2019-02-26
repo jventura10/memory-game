@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "554fd01f6744f978583a68f2e10bfe2b",
-    "url": "/memory-game/static/media/Might Guy.554fd01f.png"
+    "revision": "1db3ab1e904aa4a8343d10a4198acdb3",
+    "url": "/memory-game/static/media/Madara.1db3ab1e.png"
   },
   {
-    "revision": "cf6c1fc88abd860cac5d",
+    "revision": "8c4efcadab27d601b1d7",
     "url": "/memory-game/static/css/main.71bb5feb.chunk.css"
   },
   {
@@ -18,6 +18,10 @@ self.__precacheManifest = [
   {
     "revision": "fab0514cdbc8e58ca588ae3e0418c23e",
     "url": "/memory-game/static/media/Deidara.fab0514c.png"
+  },
+  {
+    "revision": "554fd01f6744f978583a68f2e10bfe2b",
+    "url": "/memory-game/static/media/Guy.554fd01f.png"
   },
   {
     "revision": "807b10287d7177d8b0171e8134f80c96",
@@ -44,12 +48,8 @@ self.__precacheManifest = [
     "url": "/memory-game/static/media/Kisame.b275faf2.png"
   },
   {
-    "revision": "1db3ab1e904aa4a8343d10a4198acdb3",
-    "url": "/memory-game/static/media/Madara.1db3ab1e.png"
-  },
-  {
-    "revision": "cf6c1fc88abd860cac5d",
-    "url": "/memory-game/static/js/main.cf6c1fc8.chunk.js"
+    "revision": "8c4efcadab27d601b1d7",
+    "url": "/memory-game/static/js/main.8c4efcad.chunk.js"
   },
   {
     "revision": "4df4928870c974c04a905868a3521db7",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/memory-game/static/media/bg.a7626800.png"
   },
   {
-    "revision": "daf95761ca4b13ec26191d0b89b94323",
+    "revision": "78117dd0fa3fcf07601ae5c0fd16363e",
     "url": "/memory-game/index.html"
   }
 ];
