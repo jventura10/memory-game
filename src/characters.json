@@ -75,5 +75,20 @@
     "id": 15,
     "name": "Madara Uchiha",
     "image": "Madara.png"
+  },
+  {
+    "id": 16,
+    "name": "Might Guy",
+    "image":"Guy.png"
+  },
+  {
+    "id": 17,
+    "name": "Deidara",
+    "image":"Deidara.png"
+  },
+  {
+    "id": 16,
+    "name": "Shikamaru Nara",
+    "image":"Shikamaru.png"
   }
 ]
