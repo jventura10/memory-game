@@ -21,3 +21,10 @@ img {
     width: 100px;
   }
 }
+
+@media only screen and (min-width: 768px) and  (max-width: 1024px) {
+  .card{
+    height: 200px;
+    width: 125px;
+  }
+}
