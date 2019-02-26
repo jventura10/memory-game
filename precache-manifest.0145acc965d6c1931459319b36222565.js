@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/memory-game/static/media/Madara.1db3ab1e.png"
   },
   {
-    "revision": "db76ffa99af65050fce3",
-    "url": "/memory-game/static/css/main.71bb5feb.chunk.css"
+    "revision": "4747cb3e31dcd31adcd8",
+    "url": "/memory-game/static/css/main.654428a4.chunk.css"
   },
   {
     "revision": "435a81855f49d55acd25",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/memory-game/static/media/Kisame.b275faf2.png"
   },
   {
-    "revision": "db76ffa99af65050fce3",
-    "url": "/memory-game/static/js/main.db76ffa9.chunk.js"
+    "revision": "4747cb3e31dcd31adcd8",
+    "url": "/memory-game/static/js/main.4747cb3e.chunk.js"
   },
   {
     "revision": "4df4928870c974c04a905868a3521db7",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/memory-game/static/media/bg.a7626800.png"
   },
   {
-    "revision": "699faeac3fb24ee3d8fdd3e7bb395b5e",
+    "revision": "0b391612d858437cd8d38ad00ae6f099",
     "url": "/memory-game/index.html"
   }
 ];
